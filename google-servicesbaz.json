@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922632128509",
+    "project_id": "bomb-crypto",
+    "storage_bucket": "bomb-crypto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922632128509:android:3486da1198f5ec98193b94",
+        "android_client_info": {
+          "package_name": "com.guide_forbazaar.tips_appv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922632128509-il2v9fe1sd1ijubtu88rmgb6gcrokfe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybHtdbj3vrcaxiCz4WpN-7CQtQZH4--k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922632128509-il2v9fe1sd1ijubtu88rmgb6gcrokfe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
