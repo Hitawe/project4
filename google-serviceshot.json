@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965047706319",
+    "project_id": "hot-03-9a2e2",
+    "storage_bucket": "hot-03-9a2e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965047706319:android:d7dec121981fd46d47cdba",
+        "android_client_info": {
+          "package_name": "com.guide_forhotwheels.tips_appv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965047706319-kisf6q7dau28kel19j3lmo4m7ahht0jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbZX_kzN4F7YJuVfXN5kEu8doML006I00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965047706319-kisf6q7dau28kel19j3lmo4m7ahht0jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
