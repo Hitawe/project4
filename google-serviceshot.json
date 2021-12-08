@@ -53,7 +53,7 @@
       "clicks to show ad in list": "2",
       "ad position in list": "4",
 	  
-      "show faces rate dialog": "false",
+      "show faces rate dialog": "true",
       "show faces rate": "true",
 	  
       "clicks to stop showing banner ad": "2",
