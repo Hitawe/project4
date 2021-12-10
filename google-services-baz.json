@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306647755638",
+    "project_id": "bazaar-quiz",
+    "storage_bucket": "bazaar-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306647755638:android:e1ab7a2c467be01daba857",
+        "android_client_info": {
+          "package_name": "com.guide_fobazaar.tips_appv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306647755638-c9kp1tgvj088t3s8h5o6051k71a4m8tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZa8jgWdA7ePAwFvWSxwtqZCPmuFUaUOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306647755638-c9kp1tgvj088t3s8h5o6051k71a4m8tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

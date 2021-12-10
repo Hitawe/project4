@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377309929011",
+    "project_id": "invitation-to-fear",
+    "storage_bucket": "invitation-to-fear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377309929011:android:4f8eaa6b94fe3cd99f4d46",
+        "android_client_info": {
+          "package_name": "com.guide_forfear.tips_appv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377309929011-9feb7asmeut9rccv5nqvf7c9704bf7lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3s661dv5nuTHun1SODt8H0tk6tw4Mf_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377309929011-9feb7asmeut9rccv5nqvf7c9704bf7lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271400376467",
+    "project_id": "jig-pato",
+    "storage_bucket": "jig-pato.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271400376467:android:8c697d09c0467aed84d566",
+        "android_client_info": {
+          "package_name": "com.guide_forjijig.tips_appv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271400376467-ibks70t8u56c1giih94kgfuhjjlbs85e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNZ5bYqr58PB1SQgJ_fM0IjGs_mwvAUwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271400376467-ibks70t8u56c1giih94kgfuhjjlbs85e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

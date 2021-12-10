@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537887730169",
+    "project_id": "clash-mini-15ee3",
+    "storage_bucket": "clash-mini-15ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537887730169:android:eb21adf1cb0206cd24f528",
+        "android_client_info": {
+          "package_name": "com.guide_forminuu.tips_appv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537887730169-msmuidqn9k4iu99vpipv2v7ktssc7rs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpNcU7RGotYl0jQwKY0E5RmtFIhpDdYKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537887730169-msmuidqn9k4iu99vpipv2v7ktssc7rs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
