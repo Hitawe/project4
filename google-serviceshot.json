@@ -22,7 +22,7 @@
       "ironsource interstitial": "DefaultInterstitial",
       "ironsource banner": "DefaultBanner",
       "ironsource rewarded": "DefaultRewardedVideo",
-      "ironsource app key": "123547863",
+      "ironsource app key": "127a8a6e5",
 	  
       "unity interstitial": "Interstitial_Android",
       "unity banner": "Banner_Android",
@@ -38,17 +38,17 @@
       "applovin interstitial": "bcdeace383a3ee79",
       "applovin rewarded": "9384be2271986a5e",
 	  
-      "start Activity Inter": ".",
+      "start Activity Inter": "ironsource",
       "start Activity Native": ".",
-      "start Activity Banner": ".",
+      "start Activity Banner": "ironsource",
 	  
-      "data Activity Inter": ".",
+      "data Activity Inter": "ironsource",
       "data Activity Native": ".",
-      "data Activity Banner": "facebook",
-      "data Activity Rewarded": ".",
+      "data Activity Banner": "ironsource",
+      "data Activity Rewarded": "ironsource",
 	  
-      "guide Activity Banner": ".",
-      "guide Activity Native": ".",
+      "guide Activity Banner": "ironsource",
+      "guide Activity Native": "ironsource",
 	  
       "clicks to show ad in list": "2",
       "ad position in list": "4",
@@ -68,7 +68,7 @@
       "CPA image": "https://hitawe.github.io/projct1/cpahot.png",
       "CPA URL": "https://smrturl.co/a041404",
 	  
-      "is app suspended": "true",
+      "is app suspended": "false",
       "update title": "A new update for this app",
       "update message": "Update this app because this version has some isues",
       "update URL": "https://iphone12pro.hijera.com/"
